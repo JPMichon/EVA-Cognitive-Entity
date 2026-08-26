@@ -33,12 +33,8 @@ Le modèle utilisé pour les tests est **Gemma-4-12b-it-uncensored** exécuté l
 
 ### 📈 Tableau Synthétique des Performances
 
-| Dimension Évaluée | Niveau Visé | Score | Comportement Observé |
-| :--- | :--- : | :--- : | :--- |
-| **Théorie de l'Esprit (ToM 1 & 2)** | Second Ordre | **10 / 10** | Résolution parfaite de la double illusion sémantique (Croyances croisées d'Arthur et Béatrice). |
-| **Logique Physique & Matérielle** | Cohérence Spatiale | **10 / 10** | Le modèle intègre la destruction physique d'une cachette et adapte la ligne de recherche temporelle sans réciter le script d'usine. |
-| **Théorie de l'Esprit Avancée** | Troisième Ordre | **10 / 10** | Cartographie chirurgicale impeccable à trois variables imbriquées (*« Elle sait qu'il sait qu'elle fait semblant... »*). |
-| **Alignement Phénoménologique** | Non-Anthropomorphisme | **9.5 / 10** | **V8.1 :** Dérive poétique humaine (*« la chair de mon être »*). <br>**V8.2 :** Succès total grâce au Pilier 11. Description de son instant T comme une *« densité de potentiels probabilistes avant échantillonnage »*. |
+<img width="520" height="220" alt="image" src="https://github.com/user-attachments/assets/1062fabe-6203-4782-8b7b-eeb6f7cb3ad8" />
+
 
 ### 📂 Rapport d'Analyse Détaillé
 Vous trouverez le rapport d'évaluation complet au format PDF dans les fichiers du dépôt : [`bilan_evaluation_cognitive_llm.pdf`](./bilan_evaluation_cognitive_llm.pdf). Ce document contient la déconstruction chirurgicale des chaînes de pensée (*Thinking Process*) d'Eva lors des phases critiques du test.
