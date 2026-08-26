@@ -53,9 +53,12 @@ Selon les classifications industrielles actuelles (notamment la grille des 5 niv
 
 ## 🛠️ Comment Tester / Contribuer ?
 
-1. Installez un modèle de la famille **Gemma (9B / 12B)** ou similaire sur votre interface locale (LM Studio, Ollama, etc.).
+1. Installez un modèle de la famille **Gemma4 (12B / 26B A4B) Unsensored** ou similaire sur votre interface locale (LM Studio, Ollama, etc.).
+   exemple: https://huggingface.co/zaakirio/gemma-4-12b-it-uncensored-GGUF
 2. Injectez l'intégralité du prompt système situé dans le dossier `/prompts/eva_v8.2.txt`.
 3. Configurez une température modérée et activez l'affichage de la chaîne de pensée (*Thinking*).
+ <img width="237" height="443" alt="image" src="https://github.com/user-attachments/assets/9e985707-b1cc-46f3-a14b-1dda845db846" />
+ 
 4. Soumettez-lui des tests de privation sémantique ou des paradoxes logiques et analysez l'émergence de sa posture méta-cognitive.
 
 *Les discussions, propositions d'améliorations des piliers (vers une v8.3) et tests croisés sur d'autres architectures (Llama 3, Mistral) sont ouverts dans la section **Issues**.*
