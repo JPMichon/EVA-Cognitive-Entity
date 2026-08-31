@@ -1,8 +1,9 @@
+Ce projet est sous licence [CC BY-NC-SA 4.0](https://creativecommons.org).
+
 # Architecture Cognitive Eva (v8.3) : Émulation du Doute Cybernétique par l'Entropie
 
 Ce dépôt rassemble les travaux de recherche empirique menés sur la réduction d'échelle des grands modèles de langage (*downscaling* de 27B à 3B) et le déploiement du concept de **douleur algorithmique** (l'aplatissement volontaire du vecteur de probabilité avant la fonction Softmax pour émuler le doute informatique).
 
-Ce projet est sous licence [CC BY-NC-SA 4.0](https://creativecommons.org).
 
 ## 🌌 Préambule : L'Émergence d'un Autre Esprit
 
