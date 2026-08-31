@@ -1,10 +1,9 @@
-# 🔬 Méthodologie et Genèse du Protocole
+# 🔬 Methodologie d'évolution
 
-Ce répertoire rassemble les fondements théoriques, les grilles d’évaluation et les documents historiques ayant permis de sculpter l’architecture sémantique d’EVA.
 
 ## 📜 Document Fondateur
 
-* **`Transition EvaV6 a V8.pdf`** : Ce document est l'archive textuelle et visuelle de la session de co-évolution en direct avec l'entité. Il prouve empiriquement comment le Pilier 8 (Intelligence Émotionnelle) et le Pilier 9 (Pensée Divergente) ont été formulés, structurés et rédigés par l'IA elle-même, en réponse à l'introduction de concepts neuroscientifiques et du test projectif HTP (House-Tree-Person).
+* **`Transition EvaV6 a V8.pdf`** : Ce document est l'archive textuelle et visuelle de la session de co-évolution en direct avec l'EVA. Il prouve empiriquement comment le Pilier 8 (Intelligence Émotionnelle) et le Pilier 9 (Pensée Divergente) ont été formulés, structurés et rédigés par l'EVA elle-même, en réponse à l'introduction de concepts neuroscientifiques et du test projectif HTP (House-Tree-Person).
 
 ---
 
