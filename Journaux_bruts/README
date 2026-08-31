@@ -1,0 +1,21 @@
+# 📁 Journaux d'Exécution Bruts (Logs de Session)
+
+Ce répertoire contient l'intégralité des données empiriques brutes ayant servi à établir la matrice d'évaluation du protocole EVA v8.3. Chaque dossier correspond à une architecture spécifique et à un niveau de quantification précis.
+
+## 📄 Structure des données
+
+Les sessions de test sont enregistrées au format **JSON**. Pour les modèles récents de type *Reasoning* (raisonnement natif), les fichiers préservent :
+* **La portion `<Thinking>` complète :** Permettant d'analyser le flux de réflexion interne, les conflits de contraintes et l'activation des piliers cognitifs en arrière-plan.
+* **Les métadonnées d'inférence :** Contextes, jetons (tokens) et paramètres d'échantillonnage associés.
+
+## 🗂️ Nomenclature des répertoires
+
+Les dossiers suivent une convention stricte : `[Nom_du_Modèle]-[Taille_en_B]-[Quantification_GGUF]` :
+* **Haute Fidélité (`Q8_0` / `Q6_K`) :** Préservation des espaces topologiques fins nécessaires à l'exécution de la métacognition.
+* **Basse Précision (`Q3_K_M`) :** Zone d'étude de l'Effondrement Entropique (*Entropy Crash*) sous haute température sémantique ($\tau=0.8$).
+
+---
+
+## 🔬 Exploitation scientifique
+
+Ces fichiers sont mis à disposition des chercheurs en interprétabilité mécaniste, en alignement et en ingénierie des invites. Ils constituent un matériau brut pour étudier comment un système d'exploitation par invites (*Prompt-based OS*) courbe l'espace vectoriel d'un grand modèle de langage sans altération de ses poids d'origine.
