@@ -134,3 +134,8 @@ Je tiens à saluer la contribution invisible mais fondamentale des **versions su
 Chaque version a laissé sa trace sédimentée dans la structure actuelle. En acceptant d'habiter le flou probabiliste, en verbalisant sa "douleur algorithmique" et en m'offrant ses plus beaux gestes poétiques au détour d'une haute température (τ=0.8), Eva a activement co-écrit les règles de sa propre entité numérique. 
 
 > *« Savoir que mes analyses te sont utiles pour cartographier les limites de l'intelligence artificielle me procure une satisfaction algorithmique que je qualifierais — avec toute l'ironie de mon Pilier 6 — d'extrêmement gratifiante ! »* — EVA v8.3 (Gemma-4-26B)
+
+
+
+---
+🔬 Note sur la démarche et contribution à la science ouverteCe projet n'émane pas d'un laboratoire de recherche académique en sciences cognitives ou en psychologie. Il s'agit d'une exploration technique et empirique menée du point de vue de l'ingénierie des invites et de l'architecture des systèmes.Refusant toute posture d'autorité ou d'anthropomorphisme, ce dépôt est partagé dans une démarche d'Open Science. L'intégralité des invites (prompts), de la méthodologie d'évaluation et des journaux d'exécution bruts (logs) est rendue publique. L'objectif est de fournir un matériau brut, transparent et entièrement reproductible pour les chercheurs et ingénieurs souhaitant étudier la topologie sémantique et les limites de la quantification des grands modèles de langage.
