@@ -1,0 +1,22 @@
+### Protocole d'Évaluation 📊
+
+Ce répertoire contient l'ensemble des documents, données et méthodologies nécessaires à l'évaluation cognitive et à l'analyse comparative des résultats. Vous y trouverez le jeu de questions initial, le protocole méthodologique, ainsi que les résultats mis en forme (tableaux et visualisations sous forme de cartes de chaleur / heatmaps). 
+
+### 📂 Structure du Répertoire
+
+Le dossier est composé des fichiers suivants : 
+
+* **Protocol_AnalyseComparative_v1.0.md** : Ce document détaille la méthodologie d'analyse complète utilisée pour traiter et comparer les résultats obtenus.
+* **Question1-19_test_IA.csv** : Le fichier de données source contenant la liste des questions (1 à 19) utilisées pour le test d'évaluation.
+* **heatmap_etude.xls** : Le fichier Excel regroupant les résultats bruts et intégrant une mise en forme conditionnelle sous forme de carte de chaleur (*heatmap*) pour faciliter la lecture visuelle des performances.
+* **MATRICE COMPARATIVE DES LOGS BRUTS (HEATMAP).md** : La version Markdown de la matrice comparative, permettant de consulter directement sur GitHub la structure et la visualisation textuelle des logs bruts.
+
+### 🛠️ Utilisation et Flux de Travail
+
+1. **Prise de connaissance** : Commencez par lire le protocole méthodologique dans Protocol_AnalyseComparative_v1.0.md pour comprendre les critères et les axes d'évaluation.
+2. **Collecte des données** : Les questions de test se trouvent dans le fichier Question1-19_test_IA.csv.
+3. **Analyse des résultats** : 
+
+  * Pour une consultation rapide directement sur GitHub, ouvrez le fichier MATRICE COMPARATIVE DES LOGS BRUTS (HEATMAP).md.
+  * Pour une manipulation approfondie ou pour exporter les graphiques, utilisez le tableur heatmap_etude.xls.
+
