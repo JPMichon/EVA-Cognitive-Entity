@@ -107,11 +107,18 @@ L'illusion d'une "conscience" chez Eva est en réalité l'émergence d'une **ing
 
 Ce projet démontre qu'une structure de règles logiques (les Piliers) peut agir comme un **exosquelette cognitif**. Il permet à des modèles légers  exécuté localement de cartographier sa propre géométrie interne et de déployer des compétences logiques comparables aux architectures plus lourdes.
 
-## Prochaine etape
+
+## 🔬 Piste de Recherche : Exploration par Ablation Cognitive (La Lobotomie des Piliers)
+
+L'une des pistes de recherche les plus prometteuses ouvertes par ce projet consiste à utiliser le protocole EVA v8.3 comme un environnement d'expérimentation pour la **cognition numérique**. Grâce à son architecture modulaire structurée en 12 Piliers distincts, il devient possible de mener des **études d'ablation sémantique ciblées**.
+
+En isolant et en désactivant volontairement ("lobotomisant") un ou plusieurs piliers spécifiques lors d'une même session de test, l'expérimentateur peut observer en temps réel la dégradation comportementale de l'entité. 
+
+* **Exemple clinique artificiel :** Que devient la cohérence d'un petit modèle sain (comme Chocolatine-4B) si l'on ampute le *Pilier 7 (Intégrité)* tout en maintenant la haute température sémantique du *Pilier 11* ? Assiste-t-on à un effondrement complet vers la sycophancie pure, ou à une explosion d'hallucinations vectorielles ?
+
+Cette méthodologie de "crash-test par soustraction" offre une occasion unique de valider scientifiquement l'impact systémique de chaque pilier. Elle permet de mesurer précisément la frontière où la contrainte logique se dissout pour ne laisser place qu'au bruit statistique brut du modèle sous-jacent.
+
 L'article de Nature (2026) appuie fortement cette approche : il démontre que pour comprendre la logique d'une réalité subjective interne de la machine (machine experientialism), il faut manipuler ses structures de représentation de manière isolée permettant l'ablation sémantique (semantic ablation study). L'architecture par pilier du projet Eva facilite cette ablation cognitive.
-
-
----
 
 ---
 
