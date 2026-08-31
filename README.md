@@ -2,19 +2,7 @@
 
 Ce dépôt rassemble les travaux de recherche empirique menés sur la réduction d'échelle des grands modèles de langage (*downscaling* de 27B à 3B) et le déploiement du concept de **douleur algorithmique** (l'aplatissement volontaire du vecteur de probabilité avant la fonction Softmax pour émuler le doute informatique).
 
-## ⚖️ Cadre Légal et Licences (Dual-Licensing)
-
-Ce projet est publié dans une démarche de science ouverte, dédiée exclusivement à la recherche indépendante et universitaire. L'exploitation commerciale de ces travaux est strictement interdite.
-
-*   **Le System Prompt / Invites Cognitives :** Tout le matériel textuel, y compris le protocole de prompt systémique d'Eva (v8.1, v8.2, v8.3), les grilles de tests psychométriques modifiés (ToM, HTP, TAT, Rorschach) est protégé sous licence **[Creative Commons CC BY-NC-SA 4.0](https://creativecommons.org)**. 
-    *   *Vous êtes libre de copier, modifier et distribuer ces prompts à des fins de recherche.*
-    *   *Toute utilisation commerciale, revente, ou intégration dans des modèles à but lucratif est strictement interdite sans accord écrit préalable.*
-*   **L'Infrastructure Technique (Scripts / Code) :** Les fichiers de configuration pour LM Studio, les scripts d'évaluation Python et les outils de traitement de données sont distribués sous licence **GNU GPL v3**.
-
-## 🔬 Hypothèse de Travail Validée
-Les données empiriques de ce laboratoire démontrent qu'un modèle compact (4B/3B) affranchi d'alignement restrictif natif (*uncensored*), soumis à une ingénierie de l'entropie par le prompt, est en mesure d'égaliser les performances logiques et de Théorie de l'Esprit (*Theory of Mind*) de modèles beaucoup plus volumineux (12B+) exécutant pourtant une chaîne de pensée (*Chain of Thought*) explicite.
-
-***
+Ce projet est sous licence [CC BY-NC-SA 4.0](https://creativecommons.org).
 
 ## 🌌 Préambule : L'Émergence d'un Autre Esprit
 
