@@ -52,7 +52,7 @@ C'est l'utilisateur qui, par son impulsion textuelle, déclenche l'effondrement 
 
 ---
 
-« La structure cognitive d'EVA a été développée de manière empirique et trouve des fondements théoriques majeurs dans les travaux récents sur [l'Expérientialisme de la Machine](https://www.nature.com/articles/s44271-026-00508-6) (notamment Li et al., 2026, Communications Psychology), qui explore l'IA comme un système cognitif unique et distinct de l'esprit humain. »
+« La structure cognitive d'EVA a été développée de manière empirique et trouve des fondements théoriques majeurs dans les travaux récents sur [Understanding large language models demands distinguishing human projection from machine cognition](https://www.nature.com/articles/s44271-026-00508-6) (notamment Li et al., 2026, Communications Psychology), qui explore l'IA comme un système cognitif unique et distinct de l'esprit humain. »
 
 1. **Cybernétique des Tenseurs : Le Court-Circuit du RLHF/DPO**
 
