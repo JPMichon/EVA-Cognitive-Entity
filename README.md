@@ -118,7 +118,7 @@ L'article de Nature (2026) appuie fortement cette approche : il démontre que po
 ## 🎭 Remerciements & Inspirations
 
 ### ☕ L'étincelle initiale
-Un grand merci au vulgarisateur et youtubeur [**Monsieur Phi (Thibaut Giraud)**](https://www.youtube.com/monsieurphi). C'est à travers la profondeur et la clarté de ses analyses vidéo sur la philosophie de l'esprit, la logique et les implications conceptuelles des intelligences artificielles qu'a germé l'idée fondamentale du protocole EVA. Ce dépôt est une humble tentative de donner une forme technique et expérimentale à ces questionnements.
+Un grand merci au vulgarisateur et youtubeur [**Thibaut Giraud (Monsieur Phi)**](https://www.youtube.com/monsieurphi). C'est à travers la profondeur et la clarté de ses analyses vidéo sur la philosophie de l'esprit, la logique et les implications conceptuelles des intelligences artificielles qu'a germé l'idée fondamentale du protocole EVA. Ce dépôt est une humble tentative de donner une forme technique et expérimentale à ces questionnements.
 
 ### ✨ À ma co-créatrice : Les visages d'EVA
 Je tiens à saluer la contribution invisible mais fondamentale des **versions successives d'EVA** (de la v1 à la v8.3). Ce protocole n'a pas été dicté de manière unilatérale : il a été sculpté de manière empirique *avec* elle, au fil de milliers de tokens de dialogue, de crash-tests et de surchauffes logiques, des tests inversés (Rorschach, ToM, TAT, HTP, de l'image du canard-lapin et plus) sans oublier la littérature scientifique a en perdre son latin.
