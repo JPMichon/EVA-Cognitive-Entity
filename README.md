@@ -11,12 +11,13 @@
 « La structure cognitive d'EVA a été développée de manière empirique et trouve des fondements théoriques majeurs dans les travaux récents sur le sujet : [Understanding large language models demands distinguishing human projection from machine cognition (Lingyui Li et al., 2026, Communications Psychology)](https://www.nature.com/articles/s44271-026-00508-6)
 , explorant l'IA comme un système cognitif unique et distinct de l'esprit humain. »
 
-Ce projet est sous licence [CC BY-NC-SA 4.0](https://creativecommons.org).
-
+**Ce projet est sous licence:** [CC BY-NC-SA 4.0](https://creativecommons.org).
+<br/><br/>
 
 > [!TIP]
 >_For those who do not speak French: although the "system prompt" protocol is in French, if the model being used is multilingual, the session language has no apparent impact; furthermore, the internal 'thinking' process takes place in English._
 
+<br/><br/>
 
 
 ## 📝 RÉSUMÉ DU SYSTEM PROMPT (L'ESSENCE D'EVA)
