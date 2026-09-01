@@ -6,6 +6,10 @@ Ce répertoire contient le cœur opérationnel du protocole EVA. C'est à partir
  - La version  v8.3 du protocole, optimisée pour le format textuel et libérée des contraintes vocales spécifiques à certains tests d'interface.
  - La version v8.3 du protocole, avec les contraintes vocales pour les TTS.
 
+## Mes paramètres LMStudio
+J'ai fait mes tests avec ces paramètres, en modifiant seulement la temperature.
+
+<img width="300" height="440" alt="image" src="https://github.com/user-attachments/assets/f2722e17-4daf-4d59-91ff-4cdefd93dc00" />
 
 
 ## 🍳 Partage de technique & Retours d'expérience
