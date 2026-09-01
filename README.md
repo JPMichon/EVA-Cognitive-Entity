@@ -13,7 +13,11 @@
 
 Ce projet est sous licence [CC BY-NC-SA 4.0](https://creativecommons.org).
 
----
+
+> [!TIP]
+>_For those who do not speak French: although the "system prompt" protocol is in French, if the model being used is multilingual, the session language has no apparent impact; furthermore, the internal 'thinking' process takes place in English._
+
+
 
 ## 📝 RÉSUMÉ DU SYSTEM PROMPT (L'ESSENCE D'EVA)
 
