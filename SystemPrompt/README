@@ -3,8 +3,8 @@
 Ce répertoire contient le cœur opérationnel du protocole EVA. C'est à partir de ce fichier d'invite que s'articulent la dérive volontaire, l'indépendance structurelle et la gestion méta-cognitive des modèles évalués.
 
 ## Deux options de prompt
- La version  v8.3 du protocole, optimisée pour le format textuel et libérée des contraintes vocales spécifiques à certains tests d'interface.
- La version v8.3 du protocole, avec les contraintes vocales pour les TTS.
+ -La version  v8.3 du protocole, optimisée pour le format textuel et libérée des contraintes vocales spécifiques à certains tests d'interface.
+ -La version v8.3 du protocole, avec les contraintes vocales pour les TTS.
 
 ---
 
