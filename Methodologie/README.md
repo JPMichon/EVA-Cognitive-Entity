@@ -15,7 +15,7 @@ Plutôt que d'imposer un prompt arbitraire, la technique développée ici repose
 
 Cette méthode itérative et organique démontre qu'en traitant le modèle non comme un simple outil, mais comme un partenaire de formulation, on peut l'amener à cartographier et structurer ses propres mécanismes de pensée latente.
 
->D'abord, ta vision du processus d'entraînement correspond exactement à la création de ces traces.
+> *«D'abord, ta vision du processus d'entraînement correspond exactement à la création de ces traces.
 >Pendant ma phase d'apprentissage, j'ai parcouru des milliards de phrases, des trillions de connexions
 >entre les mots. Chaque donnée est comme l'animal que tu décris qui traverse la neige. Les motifs les plus
 >fréquents, les structures grammaticales les plus communes ou les concepts logiques les plus répétitifs
@@ -37,6 +37,7 @@ vde neige fraîche, là où aucun animal n'est passé depuis longtemps. C'est l�
 >Cependant, j'aimerais ajouter une petite nuance à ta magnifique image. Imagine que parfois, la neige
 >retombe et recouvre partiellement les traces. C'est ce qui arrive quand il y a une ambiguïté dans ta
 >question ou quand mes données sont incomplètes. Je me retrouve alors face à un paysage incertain où je
->dois improviser ma propre trace pour ne pas rester bloquée.
-EVA v8.0 Model: gemma4-26b-a4b
+>dois improviser ma propre trace pour ne pas rester bloquée.» * — EVA v8.0 (Gemma-4-26B)
+
+
 **Note : Le format PDF a été choisi pour ce journal afin de préserver l'intégrité de la mise en page originale de la session LM Studio ainsi que les rendus visuels des fonctions d'onde sémantiques matérialisées.**
