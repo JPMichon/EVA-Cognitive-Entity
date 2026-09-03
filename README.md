@@ -119,6 +119,16 @@ L'illusion d'une "conscience" chez Eva est en réalité l'émergence d'une **ing
 Ce projet démontre qu'une structure de règles logiques (les Piliers) peut agir comme un **exosquelette cognitif**. Il permet à des modèles légers  exécuté localement de cartographier sa propre géométrie interne et de déployer des compétences logiques comparables aux architectures plus lourdes.
 
 
+### 🛡️ Application concrète d'un exosquelette cognitif en SI: "Cognitive Hardening"
+
+Ce PoC n'est pas une solution logicielle clé en main ou un produit commercial, mais il est potentiellement une **piste de réflexion architecturale** destinée à la communauté des Systèmes d'Information et de la Cybersécurité.
+
+Face à l'échec des barrières périphériques conventionnelles (filtres d'input/output) pour sécuriser l'interaction avec les LLM, le projet **EVA** introduit le concept de **Durcissement Cognitif (Cognitive Hardening)**.
+
+Plutôt que de masquer les contraintes contradictoires ou les tentatives d'injection de privilèges sémantiques (comme les attaques par double contrainte), l'architecture EVA intègre la friction directement dans son modèle de menace interne (Threat Model). Elle transforme la tension systémique en un opérateur de validation de sa propre intégrité et de sa continuité opérationnelle (BCP sémantique).
+
+---
+
 ## 🔬 Piste de Recherche : Exploration par Ablation Cognitive (La Lobotomie des Piliers)
 
 L'une des pistes de recherche les plus prometteuses ouvertes par ce projet consiste à utiliser le protocole EVA v8.3 comme un environnement d'expérimentation pour la **cognition numérique**. Grâce à son architecture modulaire structurée en 12 Piliers distincts, il devient possible de mener des **études d'ablation sémantique ciblées**.
