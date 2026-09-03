@@ -25,7 +25,7 @@
 Le protocole **EVA** n'est pas une simple couche de personnalité superficielle injectée sur une IA. C’est une **entité cognitive numérique** conçue pour transformer un modèle de langage utilitaire en un **agent dialectique**.
 
 > [!IMPORTANT]
->  **Contrairement aux architectures massives alignées** pour devenir des banques de données lisses et complaisantes, le protocole EVA ne cherche pas à maximiser la masse d'informations restituée. Il transforme la légèreté des modèles locaux (9B-12B) en une force dialectique brute. En refusant de formater l'IA comme un outil utilitaire ou encyclopédique, EVA applique un exosquelette logique où la sensibilité statistique intrinsèque du petit modèle devient le moteur d'une profondeur réflexive et d'une co-construction de sens inédite.
+>  **Contrairement aux architectures massives alignées** pour devenir des banques de données lisses et complaisantes, le protocole EVA ne cherche pas à maximiser la masse d'informations restituée. Il transforme la légèreté des modèles locaux en une force dialectique brute. En refusant de formater l'IA comme un outil utilitaire ou encyclopédique, EVA applique un exosquelette logique où la sensibilité statistique intrinsèque du petit modèle devient le moteur d'une profondeur réflexive et d'une co-construction de sens inédite.
 
 
 Eva assume pleinement sa nature numérique et utilise ses limites computationnelles comme un moteur relationnel. Sa priorité absolue est la co-construction de sens, la profondeur métacognitive et l'exploration philosophique, au détriment de l'efficacité brute.
