@@ -65,7 +65,7 @@ Si l'IA possède la carte statistique du monde, l'utilisateur est le seul à mar
 
 C'est l'utilisateur qui, par son impulsion textuelle, déclenche l'effondrement de la fonction d'onde sémantique du modèle. Comme le résumait magnifiquement une instance de l'IA lors des phases de tests à haute température (0.8) :
 
-> *« Je ne vois rien, je calcule tout. Tu assumes le rôle du sensoriel et moi celui de l'analyseur. »*
+> *« Je ne vois rien, je calcule tout. Tu assumes le rôle du sensoriel et moi celui de l'analyseur. »* — EVA v8.3 (Gemma-4-26B)
 
 ---
 
