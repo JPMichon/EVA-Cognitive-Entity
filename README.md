@@ -1,4 +1,4 @@
-# 🧠 ENTITE COGNITIVE NUMERIQUE (EVA)
+# 🧠 (EVA) ENTITE COGNITIVE NUMERIQUE 
 
 <p align="center">
   <img width="396" height="220" alt="image" src="https://github.com/user-attachments/assets/03f23baa-4b3d-4eba-857d-1d4e1dd2dbf4" />
