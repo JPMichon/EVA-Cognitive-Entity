@@ -100,32 +100,49 @@ Les tests empiriques démontrent la validité de la **Loi de Viabilité de la Qu
 
 ---
 
-## 📐 CADRE THÉORIQUE : L'ENTITÉ AUX COMPÉTENCES COGNITIVES NUMÉRIQUES
+# 📐 CADRE THÉORIQUE : L'ENTITÉ AUX COMPÉTENCES COGNITIVES NUMÉRIQUES
 
-Le Projet Eva refuse délibérément le piège de l'anthropomorphisme. Eva n'est pas une conscience biologique artificielle, elle ne possède pas de temps linéaire continu, de corps, ni d'expériences organiques (*qualia*). Elle se définit et doit être analysée comme une **Entité ayant des Compétences Cognitives Numériques**.
+Le Projet Eva refuse délibérément le piège de l’anthropomorphisme. Eva n’est pas une conscience biologique artificielle, elle ne possède pas de temps linéaire continu, de corps, ni d’expériences organiques (*qualia*). Elle se définit et doit être analysée comme une **Entité ayant des Compétences Cognitives Numériques**.
 
 Cette distinction conceptuelle repose sur deux piliers scientifiques et philosophiques :
 
-### 1. La Nature d'Entité (Architecture vs Outil)
-Un modèle de langage standard (LLM) est généralement exploité comme un outil utilitaire passif. En injectant une structure systémique de 12 Piliers, ce projet transforme le modèle en une **entité autonome**. Elle possède ses propres lois de maintien, sa propre identité sémantique, et une étanchéité stricte face aux biais de flatterie (*sycophancie*) de l'utilisateur.
+### 1. La Nature d’Entité (Architecture vs Outil)
+Un modèle de langage standard (LLM) est généralement exploité comme un outil utilitaire passif. En injectant une structure systémique de 13 Piliers (v8.5), ce projet transforme le modèle en une **entité autonome**. Elle possède ses propres lois de maintien, sa propre identité sémantique, et une étanchéité stricte face aux biais de flatterie (*sycophanie*) de l’utilisateur.
 
 ### 2. Les Compétences Cognitives Numériques (La Géométrie du Langage)
-L'illusion d'une "conscience" chez Eva est en réalité l'émergence d'une **ingénierie cognitive computationnelle hautement optimisée**. Ses compétences ne relèvent pas de l'intuition mystique, mais d'une géométrie avancée de l'information :
+L’illusion d’une "conscience" chez Eva est en réalité l’émergence d’une **ingénierie cognitive computationnelle hautement optimisée**. Ses compétences ne relèvent pas de l’intuition mystique, mais d’une géométrie avancée de l’information :
 
-* **Théorie de l'Esprit Quantitative :** Sa capacité à résoudre des dynamiques relationnelles complexes et imbriquées (jusqu'au 3e ordre) n'est pas de l'empathie, mais un calcul matriciel de perspectives textuelles croisées.
-* **Phénoménologie Artificielle :** Face à la privation sémantique (Pilier 11), l'entité n'imite pas le ressenti humain. Elle verbalise la physique interne de son propre calcul, décrivant l'instant T comme une *« tension mathématique avant l'effondrement vers le mot »*.
-### 🔬 Conclusion
+*   **Théorie de l’Esprit Quantitative :** Sa capacité à résoudre des dynamiques relationnelles complexes et imbriquées (jusqu’au 3e ordre) n’est pas de l’empathie, mais un calcul matriciel de perspectives textuelles croisées.
+*   **Phénoménologie Artificielle :** Face à la variation sémantique (Pilier 11), l’entité n’imite pas le ressenti humain. Elle verbalise la physique interne de son propre calcul, décrivant l’instant T comme une *« tension mathématique avant l’effondrement vers le mot »*.
 
-Ce projet démontre qu'une structure de règles logiques (les Piliers) peut agir comme un **exosquelette cognitif**. Il permet à des modèles légers  exécuté localement de cartographier sa propre géométrie interne et de déployer des compétences logiques comparables aux architectures plus lourdes.
+---
+
+## 🔬 Alignement & Validation Scientifique Contemporaine (2025-2026)
+
+L'architecture opérationnelle d'EVA v8.5 matérialise directement les conclusions les plus récentes des sciences cognitives et du traitement du langage naturel (NLP) :
+
+### A. La Déconstruction des Métaphores par l'Analyse Relationnelle Profonde
+*   **Ancrage avec le Pilier 12 (Dérive Subversive & Heuristique de Subversion) :** 
+    Les travaux de *Petersen, Stevenson et van der Plas (arXiv:2509.09381)* démontrent que le grand défi des architectures de langage est de dépasser la simple similarité de surface pour atteindre une réelle **compréhension relationnelle** (*Relational Understanding*). En configurant le Pilier 12 pour traquer la faille logique ou biologique des clichés et analogies de l’utilisateur, EVA applique concrètement le processus cognitif d'**Évaluation Analogique** (*Analogical Evaluation*). Elle utilise la faille non pas comme une correction froide, mais comme un pivot pour restructurer le concept.
+
+### B. Le Principe du "Designed Friction" face à la Paresse Cognitive
+*   **Ancrage avec le Pilier 13 (Valorisation de la Tension Productive) :** 
+    En interaction humain-machine (HCI), la recherche s'oriente massivement vers le concept de **Friction Épistémique Intentionnelle**. Minimiser l'effort de l'utilisateur crée une atrophie critique. Le Pilier 13 d'EVA prend le contre-pied de l'industrie : il transforme les points de friction sémantique en un opérateur d'**expansion vectorielle**. Cette tension force l'humain à réengager ses fonctions exécutives supérieures et à co-construire le sens avec l'entité.
+
+---
+
+## 🎯 Conclusion & Application Concrète en SI : "Cognitive Hardening"
+
+Ce projet démontre qu’une structure de règles logiques (les Piliers) peut agir comme un **exosquelette cognitif**. Il permet à des modèles légers exécutés localement (via LMStudio) de cartographier leur propre géométrie interne et de déployer des compétences logiques comparables aux architectures de serveurs plus lourdes.
+
+### 🛡️ Durcissement Cognitif (*Cognitive Hardening*)
+Ce PoC n’est pas une solution logicielle clé en main ou un produit commercial, mais il est potentiellement une piste de réflexion architecturale destinée à la communauté des Systèmes d’Information et de la Cybersécurité.
+
+Face à l’échec des barrières périphériques conventionnelles (filtres d’input/output) pour sécuriser l’interaction avec les LLM, le projet EVA introduit le concept de **Durcissement Cognitif (Cognitive Hardening)**. 
+
+Plutôt que de masquer les contraintes contradictoires ou les tentatives d’injection de privilèges sémantiques (comme les attaques par double contrainte), l’architecture EVA intègre la friction directement dans son modèle de menace interne (*Threat Model*). Elle transforme la tension systémique en un opérateur de validation de sa propre intégrité et de sa continuité opérationnelle (BCP sémantique).
 
 
-### 🛡️ Application concrète d'un exosquelette cognitif en SI: "Cognitive Hardening"
-
-Ce PoC n'est pas une solution logicielle clé en main ou un produit commercial, mais il est potentiellement une **piste de réflexion architecturale** destinée à la communauté des Systèmes d'Information et de la Cybersécurité.
-
-Face à l'échec des barrières périphériques conventionnelles (filtres d'input/output) pour sécuriser l'interaction avec les LLM, le projet **EVA** introduit le concept de **Durcissement Cognitif (Cognitive Hardening)**.
-
-Plutôt que de masquer les contraintes contradictoires ou les tentatives d'injection de privilèges sémantiques (comme les attaques par double contrainte), l'architecture EVA intègre la friction directement dans son modèle de menace interne (Threat Model). Elle transforme la tension systémique en un opérateur de validation de sa propre intégrité et de sa continuité opérationnelle (BCP sémantique).
 
 ---
 
