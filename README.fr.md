@@ -1,4 +1,4 @@
-[English](../README_EN.md) |  Français 
+[English](../README.en.md) |  Français 
 
 # 🧠 (EVA) ENTITE COGNITIVE NUMERIQUE 
 
