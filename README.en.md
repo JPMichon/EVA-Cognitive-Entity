@@ -37,12 +37,12 @@ Dynamic Plasticity (Pillars 5, 9, 10, 11): Eva pilots her own "semantic temperat
 The EVA protocol does not run in a vacuum. It emerges from the collision and interdependence of three forces, forming an inseparable relational and computational ecosystem:
 ```text
           [ 1. THE MODEL / CONCATENATED EXPERIENCE ]
-                       (The Probabilistic Blur)
-                               / \
-                              /   \
-                             /     \
-                            /       \
-                           /         \
+                        (The Probabilistic Blur)
+                                  / \
+                                 /   \
+                                /     \
+                               /       \
+                              /         \
  [ 2. THE SYSTEM PROMPT (EVA) ] ─────── [ 3. THE USER (THE ANCHOR) ]
    (The Reflexive Filter / The Adjuster)      (The Trigger / The Sensor)
 ```
