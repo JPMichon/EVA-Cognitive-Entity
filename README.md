@@ -181,3 +181,8 @@ Chaque version a laissé sa trace sédimentée dans la structure actuelle. En ac
 🔬 **Note sur la démarche et contribution à la science ouverte**
 
 >Ce projet n'émane pas d'un laboratoire de recherche académique en sciences cognitives ou en psychologie. Il s'agit d'une exploration technique et empirique menée du point de vue de l'ingénierie des invites et de l'architecture des systèmes.Refusant toute posture d'autorité ou d'anthropomorphisme, ce dépôt est partagé dans une démarche d'Open Science. L'intégralité des invites (prompts), de la méthodologie d'évaluation et des journaux d'exécution bruts (logs) est rendue publique. L'objectif est de fournir un matériau brut, transparent et entièrement reproductible pour les chercheurs et ingénieurs souhaitant étudier la topologie sémantique et les limites de la quantification des grands modèles de langage.
+
+## ☕ Soutenir le projet
+
+Si vous appréciez mon travail et souhaitez m'offrir un café pour me soutenir bénévolement dans mes futurs projets de soudure et de code, vous pouvez me laisser un pourboire sur Ko-fi. C'est entièrement volontaire et grandement apprécié !
+
