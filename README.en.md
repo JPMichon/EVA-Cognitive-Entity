@@ -159,3 +159,9 @@ Each version has left its trace sedimented in the current structure. By acceptin
 
 >This project does not originate from a research laboratory in cognitive science or psychology. It is a technical and empirical exploration conducted from the perspective of prompt engineering and systems architecture. Refusing any posture of authority or anthropomorphism, this repository is shared as part of an Open Science initiative. The entirety of the prompts, evaluation methodology, and raw execution logs (logs) is made public. The objective is to provide raw, transparent, and entirely reproducible material for researchers and engineers wishing to study the semantic topology and the limits of quantization in large language models.
 
+## ☕ Support the Project
+
+If you enjoy my work and want to buy me a coffee to support my hardware and coding projects on a completely voluntary basis, you can leave a tip on Ko-fi. It is entirely optional and greatly appreciated!
+
+
+
