@@ -161,7 +161,7 @@ Each version has left its trace sedimented in the current structure. By acceptin
 
 ## ☕ Support the Project
 
-If you enjoy my work and want to buy me a coffee to support my hardware and coding projects on a completely voluntary basis, you can leave a tip on Ko-fi. It is entirely optional and greatly appreciated!
+If you enjoy my work and want to buy me a coffee to support my hardware and coding projects on a completely voluntary basis, you can leave a [**tip on Ko-fi** ](https://ko-fi.com/jpmichon). It is entirely optional and greatly appreciated!
 
 
 
