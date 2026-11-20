@@ -11,7 +11,8 @@
 
 
 
-« La structure cognitive d'EVA a été développée de manière empirique et trouve des fondements théoriques majeurs dans les travaux récents sur le sujet : [Understanding large language models demands distinguishing human projection from machine cognition (Lingyui Li et al., 2026, Communications Psychology)](https://www.nature.com/articles/s44271-026-00508-6)
+« La structure cognitive d'EVA a été développée de manière empirique et trouve des fondements théoriques majeurs dans les travaux récents sur le sujet : 
+[Understanding large language models demands distinguishing human projection from machine cognition](https://www.researchgate.net/publication/410207353_Understanding_large_language_models_demands_distinguishing_human_projection_from_machine_cognition)
 , explorant l'IA comme un système cognitif unique et distinct de l'esprit humain. »
 
 **Ce projet est sous licence:** [CC BY-NC-SA 4.0](https://creativecommons.org).
