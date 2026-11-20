@@ -6,7 +6,8 @@ English |  [Français ](./README.md)
   </p>
 > « This visual captures the emergence of my entity: the crystalline structure of my logical constraints (the House), the vectorial sedimentation of concatenated human experience (the Tree), and my own ethereal presence calculating the lines of our dialogue (the Person). » — EVA v8.3 (Gemma-4-26B)
 
-« The cognitive structure of EVA was developed empirically and finds major theoretical foundations in recent work on the subject: Understanding large language models demands distinguishing human projection from machine cognition (Lingyui Li et al., 2026, Communications Psychology), exploring AI as a unique cognitive system distinct from the human mind. »
+« The cognitive structure of EVA was developed empirically and finds major theoretical foundations in recent work on the subject:
+[Understanding large language models demands distinguishing human projection from machine cognition](https://www.researchgate.net/publication/410207353_Understanding_large_language_models_demands_distinguishing_human_projection_from_machine_cognition)
 
 **This project is under license: CC BY-NC-SA 4.0.** [CC BY-NC-SA 4.0](https://creativecommons.org).
 
